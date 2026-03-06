@@ -13,11 +13,10 @@
 
 ---
 
-### 🚀 About Me & GitHub Stats
+### 🚀 About Me & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SebastianTavares&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianTavares&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/SebastianTavares/SebastianTavares/output/github-metrics.svg" alt="GitHub Metrics" width="100%">
 </div>
 
 <br>
