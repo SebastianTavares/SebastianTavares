@@ -1,0 +1,20 @@
+name: Isometric Calendar
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: "" # Esto es CLAVE: desactiva las estadísticas aburridas
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          config_timezone: America/Santo_Domingo
+          config_theme: tokyonight # Para mantener coherencia de color
