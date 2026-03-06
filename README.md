@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Sebastián+Tavares+👋;Backend+Developer+(.NET);Software+Architect+Student;Clean+Code+Enthusiast&font=Fira+Code&center=true&width=500&height=50&color=4285F4&vCenter=true&pause=1000&size=24" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Sebastian+Tavares;Backend+Developer+(.NET);Software+Architect+Student;Clean+Code+Enthusiast&font=Fira+Code&center=true&width=500&height=50&color=4285F4&vCenter=true&pause=1000&size=24" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -14,9 +14,10 @@
 ---
 
 ### 🚀 About Me & GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SebastianTavares&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Sebastián's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianTavares&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SebastianTavares&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianTavares&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150" alt="Top Languages" />
 </div>
 
 <br>
@@ -29,9 +30,10 @@
 ---
 
 ### 🛠️ Tech Stack
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,sqlserver,postgres,ts,js,angular,react,python,dart,flutter,docker,git,github,figma&theme=dark&perline=8" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,postgres,ts,js,angular,react,nodejs,python,dart,flutter,docker,git,github,figma&theme=dark&perline=8" alt="Skill Icons" />
   </a>
 </p>
 
